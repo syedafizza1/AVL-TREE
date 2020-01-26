@@ -30,6 +30,13 @@ Updating the height and getting the balance factor also takes constant time. So 
 
 Since AVL tree is balanced, the height is O(Logn). .
 
+## GROUP MEMBERS:
+Mahnoor Nadeem
+
+Abdul Wahab Amir
+
+Syeda Fizza Jaffery
+
 
 
   
